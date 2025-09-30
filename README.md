@@ -14,7 +14,7 @@ Welcome to the **Zomato MVP** (Minimum Viable Product) – a sleek and responsiv
 
 ## 🎯 Key Features
 
-- 🏠 **Landing Page**
+- 🏠 Landing Page
   - Eye-catching layout showcasing restaurants, offers, and categories
   - Responsive navigation bar
   - Hero section with search functionality (static)
@@ -34,9 +34,9 @@ Welcome to the **Zomato MVP** (Minimum Viable Product) – a sleek and responsiv
 
 ## 🧰 Tech Stack
 
-- **HTML5** – Page structure and content
-- **CSS3** – Styling and layout
-- **JavaScript** – Basic interactivity and form validation
+- HTML5 – Page structure and content
+- CSS3 – Styling and layout
+- JavaScript – Basic interactivity and form validation
 
 
 
