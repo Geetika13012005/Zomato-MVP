@@ -19,15 +19,15 @@ Welcome to the **Zomato MVP** (Minimum Viable Product) – a sleek and responsiv
   - Responsive navigation bar
   - Hero section with search functionality (static)
 
-- 🔐 **Login Page**
+- 🔐 Login Page
   - User-friendly form with validation
   - Designed for smooth entry into the platform
 
-- 📝 **Sign-Up Page**
+- 📝 Sign-Up Page
   - New user registration form with basic field validation
   - Clean, mobile-first UI
 
-- 📱 **Responsive Design**
+- 📱 Responsive Design
   - Works seamlessly on desktops, tablets, and smartphones
 
 ---
